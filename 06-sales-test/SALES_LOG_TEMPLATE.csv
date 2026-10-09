@@ -1,0 +1,2 @@
+date,lead_id,source,source_detail,service,business_type,decision_role,task,budget_fit,deadline_fit,qualified,proposal_sent,proposed_kzt,prepayment_received,prepayment_kzt,marketing_cost_kzt,time_sales_h,time_production_h,time_revision_h,direct_cost_kzt,outcome,objection_verbatim,notes
+2026-10-10,EXAMPLE-DELETE,example,delete_this_row,logo,example,owner,example,unknown,unknown,no,no,0,no,0,0,0,0,0,0,example,example,Удалить пример перед началом работы
